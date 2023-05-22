@@ -1,6 +1,4 @@
 # Coding_Examples
- Uploading more recent coding portfolio
-######################################################################
 
 "DSfB Project Part 4.ipynb" Contains a completed Data Science project based on plot
 diversity in Germany
